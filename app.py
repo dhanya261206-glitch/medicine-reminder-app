@@ -332,7 +332,7 @@ def edit_patient(patient_id):
     )
 
 from datetime import date
-from tkinter import messagebox  # (ignore if already removed from Flask version)
+  # (ignore if already removed from Flask version)
 
 def send_sms_demo(patient_name, medicine_name, status):
 
